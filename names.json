@@ -1,341 +1,1358 @@
 [
-  {"id": "man_city", "name": "مانشستر سيتي"},
-  {"id": "arsenal", "name": "أرسنال"},
-  {"id": "liverpool", "name": "ليفربول"},
-  {"id": "man_united", "name": "مانشستر يونايتد"},
-  {"id": "chelsea", "name": "تشيلسي"},
-  {"id": "tottenham", "name": "توتنهام"},
-  {"id": "newcastle", "name": "نيوكاسل يونايتد"},
-  {"id": "aston_villa", "name": "أستون فيلا"},
-  {"id": "west_ham", "name": "وست هام يونايتد"},
-  {"id": "brighton", "name": "برايتون"},
-  {"id": "wolves", "name": "وولفرهامبتون"},
-  {"id": "fulham", "name": "فولهام"},
-  {"id": "brentford", "name": "برينتفورد"},
-  {"id": "crystal_palace", "name": "كريستال بالاس"},
-  {"id": "bournemouth", "name": "بورنموث"},
-  {"id": "nottingham", "name": "نوتنغهام فورست"},
-  {"id": "everton", "name": "إيفرتون"},
-  {"id": "leicester", "name": "ليستر سيتي"},
-  {"id": "southampton", "name": "ساوثهامبتون"},
-  {"id": "leeds", "name": "ليدز يونايتد"},
-  {"id": "real_madrid", "name": "ريال مدريد"},
-  {"id": "barcelona", "name": "برشلونة"},
-  {"id": "atletico", "name": "أتلتيكو مدريد"},
-  {"id": "sevilla", "name": "إشبيلية"},
-  {"id": "betis", "name": "ريال بيتيس"},
-  {"id": "sociedad", "name": "ريال سوسيداد"},
-  {"id": "villarreal", "name": "فياريال"},
-  {"id": "valencia", "name": "فالنسيا"},
-  {"id": "athletic_bilbao", "name": "أتلتيك بيلباو"},
-  {"id": "celta", "name": "سيلتا فيغو"},
-  {"id": "osasuna", "name": "أوساسونا"},
-  {"id": "mallorca", "name": "ريال مايوركا"},
-  {"id": "girona", "name": "جيرونا"},
-  {"id": "rayo_vallecano", "name": "رايو فايكانو"},
-  {"id": "getafe", "name": "خيتافي"},
-  {"id": "alaves", "name": "ألافيس"},
-  {"id": "cadiz", "name": "قادش"},
-  {"id": "granada", "name": "غرناطة"},
-  {"id": "las_palmas", "name": "لاس بالماس"},
-  {"id": "leganes", "name": "ليغانيس"},
-  {"id": "juventus", "name": "يوفنتوس"},
-  {"id": "inter_milan", "name": "إنتر ميلان"},
-  {"id": "ac_milan", "name": "ميلان"},
-  {"id": "napoli", "name": "نابولي"},
-  {"id": "roma", "name": "روما"},
-  {"id": "lazio", "name": "لاتسيو"},
-  {"id": "atalanta", "name": "أتلانتا"},
-  {"id": "fiorentina", "name": "فيورنتينا"},
-  {"id": "torino", "name": "تورينو"},
-  {"id": "bologna", "name": "بولونيا"},
-  {"id": "udinese", "name": "أودينيزي"},
-  {"id": "monza", "name": "مونزا"},
-  {"id": "genoa", "name": "جنوى"},
-  {"id": "lecce", "name": "ليتشي"},
-  {"id": "empoli", "name": "إمبولي"},
-  {"id": "verona", "name": "هيلاس فيرونا"},
-  {"id": "sassuolo", "name": "ساسولو"},
-  {"id": "cagliari", "name": "كالياري"},
-  {"id": "frosinone", "name": "فروزينوني"},
-  {"id": "salernitana", "name": "ساليرنيتانا"},
-  {"id": "bayern_munich", "name": "بايرن ميونخ"},
-  {"id": "borussia_dortmund", "name": "بوروسيا دورتموند"},
-  {"id": "leipzig", "name": "لايبزيغ"},
-  {"id": "bayer_leverkusen", "name": "باير ليفركوزن"},
-  {"id": "monchengladbach", "name": "بوروسيا مونشنغلادباخ"},
-  {"id": "wolfsburg", "name": "فولفسبورغ"},
-  {"id": "eintracht_frankfurt", "name": "آينتراخت فرانكفورت"},
-  {"id": "freiburg", "name": "فرايبورغ"},
-  {"id": "mainz", "name": "ماينز"},
-  {"id": "stuttgart", "name": "شتوتغارت"},
-  {"id": "augsburg", "name": "أوغسبورغ"},
-  {"id": "werder_bremen", "name": "فيردر بريمن"},
-  {"id": "bochum", "name": "بوخوم"},
-  {"id": "union_berlin", "name": "يونيون برلين"},
-  {"id": "heidenheim", "name": "هايدنهايم"},
-  {"id": "hoffenheim", "name": "هوفنهايم"},
-  {"id": "koln", "name": "كولن"},
-  {"id": "darmstadt", "name": "دارمشتات"},
-  {"id": "nurnberg", "name": "نورمبرغ"},
-  {"id": "hannover", "name": "هانوفر"},
-  {"id": "ahly", "name": "الأهلي"},
-  {"id": "zamalek", "name": "الزمالك"},
-  {"id": "pyramids", "name": "بيراميدز"},
-  {"id": "masry", "name": "المصري"},
-  {"id": "ismaily", "name": "الإسماعيلي"},
-  {"id": "smouha", "name": "سموحة"},
-  {"id": "fut", "name": "فيوتشر"},
-  {"id": "modern_sport", "name": "مودرن سبورت"},
-  {"id": "ceramica", "name": "سيراميكا كليوباترا"},
-  {"id": "pharco", "name": "فاركو"},
-  {"id": "ennpi", "name": "إنبي"},
-  {"id": "national_bank", "name": "البنك الأهلي"},
-  {"id": "gouna", "name": "الجونة"},
-  {"id": "mokawloon", "name": "المقاولون العرب"},
-  {"id": "talaea_el_gaish", "name": "طلائع الجيش"},
-  {"id": "el_dakhleya", "name": "الداخلية"},
-  {"id": "sohag", "name": "سوهاج"},
-  {"id": "aswan", "name": "أسوان"},
-  {"id": "ghazl_mahalla", "name": "غزل المحلة"},
-  {"id": "haras_hodoud", "name": "حرس الحدود"},
-  {"id": "al_hilal", "name": "الهلال"},
-  {"id": "al_nassr", "name": "النصر"},
-  {"id": "al_ahli", "name": "الأهلي"},
-  {"id": "al_ittihad", "name": "الاتحاد"},
-  {"id": "al_shabab", "name": "الشباب"},
-  {"id": "al_taawoun", "name": "التعاون"},
-  {"id": "al_fateh", "name": "الفتح"},
-  {"id": "al_ettifaq", "name": "الاتفاق"},
-  {"id": "al_faisaly", "name": "الفيصلي"},
-  {"id": "al_raeeds", "name": "الرائد"},
-  {"id": "al_wehda", "name": "الوحدة"},
-  {"id": "al_tai", "name": "الطائي"},
-  {"id": "abha", "name": "أبها"},
-  {"id": "al_haqooq", "name": "الحزم"},
-  {"id": "al_okhdood", "name": "الأخدود"},
-  {"id": "al_riyadh", "name": "الرياض"},
-  {"id": "al_khaleej", "name": "الخليج"},
-  {"id": "al_adr", "name": "العدالة"},
-  {"id": "al_batin", "name": "الباطن"},
-  {"id": "damac", "name": "ضمك"},
-  {"id": "usma", "name": "اتحاد العاصمة"},
-  {"id": "mca", "name": "مولودية الجزائر"},
-  {"id": "crb", "name": "شباب بلوزداد"},
-  {"id": "ess", "name": "وفاق سطيف"},
-  {"id": "jsk", "name": "شبيبة القبائل"},
-  {"id": "mco", "name": "مولودية وهران"},
-  {"id": "asmo", "name": "جمعية وهران"},
-  {"id": "rc_relizane", "name": "رائد القبة"},
-  {"id": "usb", "name": "اتحاد بسكرة"},
-  {"id": "ncm", "name": "نجم مقرة"},
-  {"id": "hbcl", "name": "هلال شلغوم العيد"},
-  {"id": "jsms", "name": "شبيبة الساورة"},
-  {"id": "rca", "name": "رائد القبة"},
-  {"id": "usmk", "name": "اتحاد خنشلة"},
-  {"id": "usmb", "name": "اتحاد بلعباس"},
-  {"id": "jshd", "name": "شبيبة بجاية"},
-  {"id": "nab", "name": "نصر حسين داي"},
-  {"id": "wa_tlemcen", "name": "وداد تلمسان"},
-  {"id": "es_setif", "name": "الوفاق السطايفي"},
-  {"id": "cs_constantine", "name": "شباب قسنطينة"},
-  {"id": "raja_casablanca", "name": "الرجاء الرياضي"},
-  {"id": "wydad_casablanca", "name": "الوداد الرياضي"},
-  {"id": "as_far", "name": "الجيش الملكي"},
-  {"id": "fath_union", "name": "الفتح الرباطي"},
-  {"id": "mco_oujda", "name": "مولودية وجدة"},
-  {"id": "rsb_berkane", "name": "نهضة بركان"},
-  {"id": "husa_agadir", "name": "حسنية أكادير"},
-  {"id": "mas_fes", "name": "المغرب الفاسي"},
-  {"id": "oc_safi", "name": "أولمبيك آسفي"},
-  {"id": "rbt", "name": "الرباط الرياضي"},
-  {"id": "js_souk", "name": "شباب السوالم"},
-  {"id": "rapide_oued_zem", "name": "سريع وادي زم"},
-  {"id": "difaa_el_jadida", "name": "الدفاع الحسني الجديدي"},
-  {"id": "itas", "name": "اتحاد طنجة"},
-  {"id": "mouloudia_marrakech", "name": "الكوكب المراكشي"},
-  {"id": "youssoufia", "name": "يوسفية برشيد"},
-  {"id": "chabab_mohammedia", "name": "شباب المحمدية"},
-  {"id": "kac_kenitra", "name": "الكنيترة"},
-  {"id": "izk_khemisset", "name": "الاتحاد الزموري للخميسات"},
-  {"id": "tihad_casablanca", "name": "الاتحاد البيضاوي"},
-  {"id": "esperance_tunis", "name": "الترجي الرياضي التونسي"},
-  {"id": "etoile_sahel", "name": "النجم الساحلي"},
-  {"id": "club_africain", "name": "النادي الإفريقي"},
-  {"id": "sfaxien", "name": "النادي الصفاقسي"},
-  {"id": "bizertin", "name": "النادي البنزرتي"},
-  {"id": "us_monastir", "name": "الاتحاد المنستيري"},
-  {"id": "stade_tunisien", "name": "الملعب التونسي"},
-  {"id": "us_tataouine", "name": "اتحاد تطاوين"},
-  {"id": "rejiche", "name": "الأمل الرياضي برجيش"},
-  {"id": "metlaoui", "name": "نجم المتلوي"},
-  {"id": "es_hammam", "name": "الملعب القابسي"},
-  {"id": "olympique_beja", "name": "الأولمبي الباجي"},
-  {"id": "cs_hammam_lif", "name": "النادي الرياضي بحمام الأنف"},
-  {"id": "as_soliman", "name": "النادي الرياضي بسليمان"},
-  {"id": "js_kairouan", "name": "الشبيبة القيروانية"},
-  {"id": "ca_bizertin", "name": "النادي الرياضي البنزرتي"},
-  {"id": "wehdat", "name": "الوحدات"},
-  {"id": "faisaly", "name": "الفيصلي"},
-  {"id": "ramtha", "name": "الرمثا"},
-  {"id": "hussein_irma", "name": "الحسين إربد"},
-  {"id": "shabab_jor", "name": "شباب الأردن"},
-  {"id": "maan", "name": "معان"},
-  {"id": "salt", "name": "السلط"},
-  {"id": "aqaba", "name": "شباب العقبة"},
-  {"id": "sahab", "name": "سحاب"},
-  {"id": "mughayer_sarhan", "name": "مغير السرحان"},
-  {"id": "jalaa", "name": "الجليل"},
-  {"id": "that_ras", "name": "ذات راس"},
-  {"id": "alg", "name": "الجزائر"},
-  {"id": "egy", "name": "مصر"},
-  {"id": "mor", "name": "المغرب"},
-  {"id": "tun", "name": "تونس"},
-  {"id": "civ", "name": "ساحل العاج"},
-  {"id": "nga", "name": "نيجيريا"},
-  {"id": "gha", "name": "غانا"},
-  {"id": "cmr", "name": "الكاميرون"},
-  {"id": "sen", "name": "السنغال"},
-  {"id": "rsa", "name": "جنوب أفريقيا"},
-  {"id": "mli", "name": "مالي"},
-  {"id": "bfa", "name": "بوركينا فاسو"},
-  {"id": "gua", "name": "غينيا"},
-  {"id": "cdr", "name": "الكونغو الديمقراطية"},
-  {"id": "cpv", "name": "الرأس الأخضر"},
-  {"id": "zmb", "name": "زامبيا"},
-  {"id": "uga", "name": "أوغندا"},
-  {"id": "ken", "name": "كينيا"},
-  {"id": "tan", "name": "تنزانيا"},
-  {"id": "zaf", "name": "جنوب أفريقيا"},
-  {"id": "sud", "name": "السودان"},
-  {"id": "eth", "name": "إثيوبيا"},
-  {"id": "sle", "name": "سيراليون"},
-  {"id": "mrt", "name": "موريتانيا"},
-  {"id": "mwi", "name": "مالاوي"},
-  {"id": "les", "name": "ليسوتو"},
-  {"id": "nam", "name": "ناميبيا"},
-  {"id": "bot", "name": "بوتسوانا"},
-  {"id": "lib", "name": "ليبيا"},
-  {"id": "gam", "name": "غامبيا"},
-  {"id": "tgo", "name": "توغو"},
-  {"id": "gbs", "name": "غينيا بيساو"},
-  {"id": "mad", "name": "مدغشقر"},
-  {"id": "sey", "name": "سيشل"},
-  {"id": "cha", "name": "تشاد"},
-  {"id": "car", "name": "إفريقيا الوسطى"},
-  {"id": "som", "name": "الصومال"},
-  {"id": "eri", "name": "إريتريا"},
-  {"id": "rwa", "name": "رواندا"},
-  {"id": "bdi", "name": "بوروندي"},
-  {"id": "moz", "name": "موزمبيق"},
-  {"id": "ang", "name": "أنغولا"},
-  {"id": "eqg", "name": "غينيا الاستوائية"},
-  {"id": "stp", "name": "ساو تومي وبرينسيب"},
-  {"id": "nis", "name": "النيجر"},
-  {"id": "ben", "name": "بنين"},
-  {"id": "caf", "name": "جمهورية إفريقيا الوسطى"},
-  {"id": "com", "name": "جزر القمر"},
-  {"id": "djib", "name": "جيبوتي"},
-  {"id": "esw", "name": "إسواتيني"},
-  {"id": "gabo", "name": "الغابون"},
-  {"id": "gui", "name": "غينيا"},
-  {"id": "con", "name": "الكونغو"},
-  {"id": "ksa", "name": "السعودية"},
-  {"id": "qat", "name": "قطر"},
-  {"id": "uae", "name": "الإمارات"},
-  {"id": "bhr", "name": "البحرين"},
-  {"id": "oma", "name": "عُمان"},
-  {"id": "kuw", "name": "الكويت"},
-  {"id": "irq", "name": "العراق"},
-  {"id": "jor", "name": "الأردن"},
-  {"id": "syr", "name": "سوريا"},
-  {"id": "leb", "name": "لبنان"},
-  {"id": "pal", "name": "فلسطين"},
-  {"id": "yem", "name": "اليمن"},
-  {"id": "chn", "name": "الصين"},
-  {"id": "jpn", "name": "اليابان"},
-  {"id": "kor", "name": "كوريا الجنوبية"},
-  {"id": "prk", "name": "كوريا الشمالية"},
-  {"id": "irn", "name": "إيران"},
-  {"id": "uzb", "name": "أوزبكستان"},
-  {"id": "tjk", "name": "طاجيكستان"},
-  {"id": "tkm", "name": "تركمانستان"},
-  {"id": "afg", "name": "أفغانستان"},
-  {"id": "pak", "name": "باكستان"},
-  {"id": "ind", "name": "الهند"},
-  {"id": "nep", "name": "نيبال"},
-  {"id": "bhu", "name": "بوتان"},
-  {"id": "ban", "name": "بنغلاديش"},
-  {"id": "sri", "name": "سريلانكا"},
-  {"id": "mya", "name": "ميانمار"},
-  {"id": "tha", "name": "تايلاند"},
-  {"id": "vnm", "name": "فيتنام"},
-  {"id": "lao", "name": "لاوس"},
-  {"id": "cam", "name": "كمبوديا"},
-  {"id": "mas", "name": "ماليزيا"},
-  {"id": "sin", "name": "سنغافورة"},
-  {"id": "phi", "name": "الفلبين"},
-  {"id": "ido", "name": "إندونيسيا"},
-  {"id": "tls", "name": "تيمور الشرقية"},
-  {"id": "hkg", "name": "هونغ كونغ"},
-  {"id": "macao", "name": "ماكاو"},
-  {"id": "tpe", "name": "تايوان"},
-  {"id": "mng", "name": "منغوليا"},
-  {"id": "kgz", "name": "قيرغيزستان"},
-  {"id": "kaz", "name": "كازاخستان"},
-  {"id": "phi", "name": "الفلبين"},
-  {"id": "gua", "name": "غوام"},
-  {"id": "nmi", "name": "جزر ماريانا الشمالية"},
-  {"id": "brn", "name": "بروناي"},
-  {"id": "eng", "name": "إنجلترا"},
-  {"id": "fra", "name": "فرنسا"},
-  {"id": "esp", "name": "إسبانيا"},
-  {"id": "ger", "name": "ألمانيا"},
-  {"id": "ita", "name": "إيطاليا"},
-  {"id": "por", "name": "البرتغال"},
-  {"id": "ned", "name": "هولندا"},
-  {"id": "bel", "name": "بلجيكا"},
-  {"id": "cro", "name": "كرواتيا"},
-  {"id": "sui", "name": "سويسرا"},
-  {"id": "aut", "name": "النمسا"},
-  {"id": "pol", "name": "بولندا"},
-  {"id": "den", "name": "الدنمارك"},
-  {"id": "swe", "name": "السويد"},
-  {"id": "nor", "name": "النرويج"},
-  {"id": "fin", "name": "فنلندا"},
-  {"id": "isl", "name": "آيسلندا"},
-  {"id": "cze", "name": "التشيك"},
-  {"id": "svk", "name": "سلوفاكيا"},
-  {"id": "hun", "name": "المجر"},
-  {"id": "rou", "name": "رومانيا"},
-  {"id": "bul", "name": "بلغاريا"},
-  {"id": "gre", "name": "اليونان"},
-  {"id": "tur", "name": "تركيا"},
-  {"id": "ukr", "name": "أوكرانيا"},
-  {"id": "rus", "name": "روسيا"},
-  {"id": "srb", "name": "صربيا"},
-  {"id": "bih", "name": "البوسنة والهرسك"},
-  {"id": "svn", "name": "سلوفينيا"},
-  {"id": "mkd", "name": "مقدونيا الشمالية"},
-  {"id": "alb", "name": "ألبانيا"},
-  {"id": "kos", "name": "كوسوفو"},
-  {"id": "mne", "name": "الجبل الأسود"},
-  {"id": "geo", "name": "جورجيا"},
-  {"id": "arm", "name": "أرمينيا"},
-  {"id": "aze", "name": "أذربيجان"},
-  {"id": "ltu", "name": "ليتوانيا"},
-  {"id": "lva", "name": "لاتفيا"},
-  {"id": "est", "name": "إستونيا"},
-  {"id": "irl", "name": "إيرلندا"},
-  {"id": "nir", "name": "إيرلندا الشمالية"},
-  {"id": "sco", "name": "اسكتلندا"},
-  {"id": "wal", "name": "ويلز"},
-  {"id": "mda", "name": "مولدوفا"},
-  {"id": "blr", "name": "بيلاروسيا"},
-  {"id": "lux", "name": "لوكسمبورغ"},
-  {"id": "and", "name": "أندورا"},
-  {"id": "smr", "name": "سان مارينو"},
-  {"id": "mlt", "name": "مالطا"},
-  {"id": "lie", "name": "ليختنشتاين"},
-  {"id": "cip", "name": "قبرص"}
+  {
+    "id": "man_city",
+    "name": "مانشستر سيتي"
+  },
+  {
+    "id": "arsenal",
+    "name": "أرسنال"
+  },
+  {
+    "id": "liverpool",
+    "name": "ليفربول"
+  },
+  {
+    "id": "man_united",
+    "name": "مانشستر يونايتد"
+  },
+  {
+    "id": "chelsea",
+    "name": "تشيلسي"
+  },
+  {
+    "id": "tottenham",
+    "name": "توتنهام"
+  },
+  {
+    "id": "newcastle",
+    "name": "نيوكاسل يونايتد"
+  },
+  {
+    "id": "aston_villa",
+    "name": "أستون فيلا"
+  },
+  {
+    "id": "west_ham",
+    "name": "وست هام يونايتد"
+  },
+  {
+    "id": "brighton",
+    "name": "برايتون"
+  },
+  {
+    "id": "wolves",
+    "name": "وولفرهامبتون"
+  },
+  {
+    "id": "fulham",
+    "name": "فولهام"
+  },
+  {
+    "id": "brentford",
+    "name": "برينتفورد"
+  },
+  {
+    "id": "crystal_palace",
+    "name": "كريستال بالاس"
+  },
+  {
+    "id": "bournemouth",
+    "name": "بورنموث"
+  },
+  {
+    "id": "nottingham",
+    "name": "نوتنغهام فورست"
+  },
+  {
+    "id": "everton",
+    "name": "إيفرتون"
+  },
+  {
+    "id": "leicester",
+    "name": "ليستر سيتي"
+  },
+  {
+    "id": "southampton",
+    "name": "ساوثهامبتون"
+  },
+  {
+    "id": "leeds",
+    "name": "ليدز يونايتد"
+  },
+  {
+    "id": "real_madrid",
+    "name": "ريال مدريد"
+  },
+  {
+    "id": "barcelona",
+    "name": "برشلونة"
+  },
+  {
+    "id": "atletico",
+    "name": "أتلتيكو مدريد"
+  },
+  {
+    "id": "sevilla",
+    "name": "إشبيلية"
+  },
+  {
+    "id": "betis",
+    "name": "ريال بيتيس"
+  },
+  {
+    "id": "sociedad",
+    "name": "ريال سوسيداد"
+  },
+  {
+    "id": "villarreal",
+    "name": "فياريال"
+  },
+  {
+    "id": "valencia",
+    "name": "فالنسيا"
+  },
+  {
+    "id": "athletic_bilbao",
+    "name": "أتلتيك بيلباو"
+  },
+  {
+    "id": "celta",
+    "name": "سيلتا فيغو"
+  },
+  {
+    "id": "osasuna",
+    "name": "أوساسونا"
+  },
+  {
+    "id": "mallorca",
+    "name": "ريال مايوركا"
+  },
+  {
+    "id": "girona",
+    "name": "جيرونا"
+  },
+  {
+    "id": "rayo_vallecano",
+    "name": "رايو فايكانو"
+  },
+  {
+    "id": "getafe",
+    "name": "خيتافي"
+  },
+  {
+    "id": "alaves",
+    "name": "ألافيس"
+  },
+  {
+    "id": "cadiz",
+    "name": "قادش"
+  },
+  {
+    "id": "granada",
+    "name": "غرناطة"
+  },
+  {
+    "id": "las_palmas",
+    "name": "لاس بالماس"
+  },
+  {
+    "id": "leganes",
+    "name": "ليغانيس"
+  },
+  {
+    "id": "juventus",
+    "name": "يوفنتوس"
+  },
+  {
+    "id": "inter_milan",
+    "name": "إنتر ميلان"
+  },
+  {
+    "id": "ac_milan",
+    "name": "ميلان"
+  },
+  {
+    "id": "napoli",
+    "name": "نابولي"
+  },
+  {
+    "id": "roma",
+    "name": "روما"
+  },
+  {
+    "id": "lazio",
+    "name": "لاتسيو"
+  },
+  {
+    "id": "atalanta",
+    "name": "أتلانتا"
+  },
+  {
+    "id": "fiorentina",
+    "name": "فيورنتينا"
+  },
+  {
+    "id": "torino",
+    "name": "تورينو"
+  },
+  {
+    "id": "bologna",
+    "name": "بولونيا"
+  },
+  {
+    "id": "udinese",
+    "name": "أودينيزي"
+  },
+  {
+    "id": "monza",
+    "name": "مونزا"
+  },
+  {
+    "id": "genoa",
+    "name": "جنوى"
+  },
+  {
+    "id": "lecce",
+    "name": "ليتشي"
+  },
+  {
+    "id": "empoli",
+    "name": "إمبولي"
+  },
+  {
+    "id": "verona",
+    "name": "هيلاس فيرونا"
+  },
+  {
+    "id": "sassuolo",
+    "name": "ساسولو"
+  },
+  {
+    "id": "cagliari",
+    "name": "كالياري"
+  },
+  {
+    "id": "frosinone",
+    "name": "فروزينوني"
+  },
+  {
+    "id": "salernitana",
+    "name": "ساليرنيتانا"
+  },
+  {
+    "id": "bayern_munich",
+    "name": "بايرن ميونخ"
+  },
+  {
+    "id": "borussia_dortmund",
+    "name": "بوروسيا دورتموند"
+  },
+  {
+    "id": "leipzig",
+    "name": "لايبزيغ"
+  },
+  {
+    "id": "bayer_leverkusen",
+    "name": "باير ليفركوزن"
+  },
+  {
+    "id": "monchengladbach",
+    "name": "بوروسيا مونشنغلادباخ"
+  },
+  {
+    "id": "wolfsburg",
+    "name": "فولفسبورغ"
+  },
+  {
+    "id": "eintracht_frankfurt",
+    "name": "آينتراخت فرانكفورت"
+  },
+  {
+    "id": "freiburg",
+    "name": "فرايبورغ"
+  },
+  {
+    "id": "mainz",
+    "name": "ماينز"
+  },
+  {
+    "id": "stuttgart",
+    "name": "شتوتغارت"
+  },
+  {
+    "id": "augsburg",
+    "name": "أوغسبورغ"
+  },
+  {
+    "id": "werder_bremen",
+    "name": "فيردر بريمن"
+  },
+  {
+    "id": "bochum",
+    "name": "بوخوم"
+  },
+  {
+    "id": "union_berlin",
+    "name": "يونيون برلين"
+  },
+  {
+    "id": "heidenheim",
+    "name": "هايدنهايم"
+  },
+  {
+    "id": "hoffenheim",
+    "name": "هوفنهايم"
+  },
+  {
+    "id": "koln",
+    "name": "كولن"
+  },
+  {
+    "id": "darmstadt",
+    "name": "دارمشتات"
+  },
+  {
+    "id": "nurnberg",
+    "name": "نورمبرغ"
+  },
+  {
+    "id": "hannover",
+    "name": "هانوفر"
+  },
+  {
+    "id": "ahly",
+    "name": "الأهلي"
+  },
+  {
+    "id": "zamalek",
+    "name": "الزمالك"
+  },
+  {
+    "id": "pyramids",
+    "name": "بيراميدز"
+  },
+  {
+    "id": "masry",
+    "name": "المصري"
+  },
+  {
+    "id": "ismaily",
+    "name": "الإسماعيلي"
+  },
+  {
+    "id": "smouha",
+    "name": "سموحة"
+  },
+  {
+    "id": "fut",
+    "name": "فيوتشر"
+  },
+  {
+    "id": "modern_sport",
+    "name": "مودرن سبورت"
+  },
+  {
+    "id": "ceramica",
+    "name": "سيراميكا كليوباترا"
+  },
+  {
+    "id": "pharco",
+    "name": "فاركو"
+  },
+  {
+    "id": "ennpi",
+    "name": "إنبي"
+  },
+  {
+    "id": "national_bank",
+    "name": "البنك الأهلي"
+  },
+  {
+    "id": "gouna",
+    "name": "الجونة"
+  },
+  {
+    "id": "mokawloon",
+    "name": "المقاولون العرب"
+  },
+  {
+    "id": "talaea_el_gaish",
+    "name": "طلائع الجيش"
+  },
+  {
+    "id": "el_dakhleya",
+    "name": "الداخلية"
+  },
+  {
+    "id": "sohag",
+    "name": "سوهاج"
+  },
+  {
+    "id": "aswan",
+    "name": "أسوان"
+  },
+  {
+    "id": "ghazl_mahalla",
+    "name": "غزل المحلة"
+  },
+  {
+    "id": "haras_hodoud",
+    "name": "حرس الحدود"
+  },
+  {
+    "id": "al_hilal",
+    "name": "الهلال"
+  },
+  {
+    "id": "al_nassr",
+    "name": "النصر"
+  },
+  {
+    "id": "al_ahli",
+    "name": "الأهلي"
+  },
+  {
+    "id": "al_ittihad",
+    "name": "الاتحاد"
+  },
+  {
+    "id": "al_shabab",
+    "name": "الشباب"
+  },
+  {
+    "id": "al_taawoun",
+    "name": "التعاون"
+  },
+  {
+    "id": "al_fateh",
+    "name": "الفتح"
+  },
+  {
+    "id": "al_ettifaq",
+    "name": "الاتفاق"
+  },
+  {
+    "id": "al_faisaly",
+    "name": "الفيصلي"
+  },
+  {
+    "id": "al_raeeds",
+    "name": "الرائد"
+  },
+  {
+    "id": "al_wehda",
+    "name": "الوحدة"
+  },
+  {
+    "id": "al_tai",
+    "name": "الطائي"
+  },
+  {
+    "id": "abha",
+    "name": "أبها"
+  },
+  {
+    "id": "al_haqooq",
+    "name": "الحزم"
+  },
+  {
+    "id": "al_okhdood",
+    "name": "الأخدود"
+  },
+  {
+    "id": "al_riyadh",
+    "name": "الرياض"
+  },
+  {
+    "id": "al_khaleej",
+    "name": "الخليج"
+  },
+  {
+    "id": "al_adr",
+    "name": "العدالة"
+  },
+  {
+    "id": "al_batin",
+    "name": "الباطن"
+  },
+  {
+    "id": "damac",
+    "name": "ضمك"
+  },
+  {
+    "id": "usma",
+    "name": "اتحاد العاصمة"
+  },
+  {
+    "id": "mca",
+    "name": "مولودية الجزائر"
+  },
+  {
+    "id": "crb",
+    "name": "شباب بلوزداد"
+  },
+  {
+    "id": "ess",
+    "name": "وفاق سطيف"
+  },
+  {
+    "id": "jsk",
+    "name": "شبيبة القبائل"
+  },
+  {
+    "id": "mco",
+    "name": "مولودية وهران"
+  },
+  {
+    "id": "asmo",
+    "name": "جمعية وهران"
+  },
+  {
+    "id": "rc_relizane",
+    "name": "رائد القبة"
+  },
+  {
+    "id": "usb",
+    "name": "اتحاد بسكرة"
+  },
+  {
+    "id": "ncm",
+    "name": "نجم مقرة"
+  },
+  {
+    "id": "hbcl",
+    "name": "هلال شلغوم العيد"
+  },
+  {
+    "id": "jsms",
+    "name": "شبيبة الساورة"
+  },
+  {
+    "id": "rca",
+    "name": "رائد القبة"
+  },
+  {
+    "id": "usmk",
+    "name": "اتحاد خنشلة"
+  },
+  {
+    "id": "usmb",
+    "name": "اتحاد بلعباس"
+  },
+  {
+    "id": "jshd",
+    "name": "شبيبة بجاية"
+  },
+  {
+    "id": "nab",
+    "name": "نصر حسين داي"
+  },
+  {
+    "id": "wa_tlemcen",
+    "name": "وداد تلمسان"
+  },
+  {
+    "id": "es_setif",
+    "name": "الوفاق السطايفي"
+  },
+  {
+    "id": "cs_constantine",
+    "name": "شباب قسنطينة"
+  },
+  {
+    "id": "raja_casablanca",
+    "name": "الرجاء الرياضي"
+  },
+  {
+    "id": "wydad_casablanca",
+    "name": "الوداد الرياضي"
+  },
+  {
+    "id": "as_far",
+    "name": "الجيش الملكي"
+  },
+  {
+    "id": "fath_union",
+    "name": "الفتح الرباطي"
+  },
+  {
+    "id": "mco_oujda",
+    "name": "مولودية وجدة"
+  },
+  {
+    "id": "rsb_berkane",
+    "name": "نهضة بركان"
+  },
+  {
+    "id": "husa_agadir",
+    "name": "حسنية أكادير"
+  },
+  {
+    "id": "mas_fes",
+    "name": "المغرب الفاسي"
+  },
+  {
+    "id": "oc_safi",
+    "name": "أولمبيك آسفي"
+  },
+  {
+    "id": "rbt",
+    "name": "الرباط الرياضي"
+  },
+  {
+    "id": "js_souk",
+    "name": "شباب السوالم"
+  },
+  {
+    "id": "rapide_oued_zem",
+    "name": "سريع وادي زم"
+  },
+  {
+    "id": "difaa_el_jadida",
+    "name": "الدفاع الحسني الجديدي"
+  },
+  {
+    "id": "itas",
+    "name": "اتحاد طنجة"
+  },
+  {
+    "id": "mouloudia_marrakech",
+    "name": "الكوكب المراكشي"
+  },
+  {
+    "id": "youssoufia",
+    "name": "يوسفية برشيد"
+  },
+  {
+    "id": "chabab_mohammedia",
+    "name": "شباب المحمدية"
+  },
+  {
+    "id": "kac_kenitra",
+    "name": "الكنيترة"
+  },
+  {
+    "id": "izk_khemisset",
+    "name": "الاتحاد الزموري للخميسات"
+  },
+  {
+    "id": "tihad_casablanca",
+    "name": "الاتحاد البيضاوي"
+  },
+  {
+    "id": "esperance_tunis",
+    "name": "الترجي الرياضي التونسي"
+  },
+  {
+    "id": "etoile_sahel",
+    "name": "النجم الساحلي"
+  },
+  {
+    "id": "club_africain",
+    "name": "النادي الإفريقي"
+  },
+  {
+    "id": "sfaxien",
+    "name": "النادي الصفاقسي"
+  },
+  {
+    "id": "bizertin",
+    "name": "النادي البنزرتي"
+  },
+  {
+    "id": "us_monastir",
+    "name": "الاتحاد المنستيري"
+  },
+  {
+    "id": "stade_tunisien",
+    "name": "الملعب التونسي"
+  },
+  {
+    "id": "us_tataouine",
+    "name": "اتحاد تطاوين"
+  },
+  {
+    "id": "rejiche",
+    "name": "الأمل الرياضي برجيش"
+  },
+  {
+    "id": "metlaoui",
+    "name": "نجم المتلوي"
+  },
+  {
+    "id": "es_hammam",
+    "name": "الملعب القابسي"
+  },
+  {
+    "id": "olympique_beja",
+    "name": "الأولمبي الباجي"
+  },
+  {
+    "id": "cs_hammam_lif",
+    "name": "النادي الرياضي بحمام الأنف"
+  },
+  {
+    "id": "as_soliman",
+    "name": "النادي الرياضي بسليمان"
+  },
+  {
+    "id": "js_kairouan",
+    "name": "الشبيبة القيروانية"
+  },
+  {
+    "id": "ca_bizertin",
+    "name": "النادي الرياضي البنزرتي"
+  },
+  {
+    "id": "wehdat",
+    "name": "الوحدات"
+  },
+  {
+    "id": "faisaly",
+    "name": "الفيصلي"
+  },
+  {
+    "id": "ramtha",
+    "name": "الرمثا"
+  },
+  {
+    "id": "hussein_irma",
+    "name": "الحسين إربد"
+  },
+  {
+    "id": "shabab_jor",
+    "name": "شباب الأردن"
+  },
+  {
+    "id": "maan",
+    "name": "معان"
+  },
+  {
+    "id": "salt",
+    "name": "السلط"
+  },
+  {
+    "id": "aqaba",
+    "name": "شباب العقبة"
+  },
+  {
+    "id": "sahab",
+    "name": "سحاب"
+  },
+  {
+    "id": "mughayer_sarhan",
+    "name": "مغير السرحان"
+  },
+  {
+    "id": "jalaa",
+    "name": "الجليل"
+  },
+  {
+    "id": "that_ras",
+    "name": "ذات راس"
+  },
+  {
+    "id": "alg",
+    "name": "الجزائر"
+  },
+  {
+    "id": "egy",
+    "name": "مصر"
+  },
+  {
+    "id": "mor",
+    "name": "المغرب"
+  },
+  {
+    "id": "tun",
+    "name": "تونس"
+  },
+  {
+    "id": "civ",
+    "name": "ساحل العاج"
+  },
+  {
+    "id": "nga",
+    "name": "نيجيريا"
+  },
+  {
+    "id": "gha",
+    "name": "غانا"
+  },
+  {
+    "id": "cmr",
+    "name": "الكاميرون"
+  },
+  {
+    "id": "sen",
+    "name": "السنغال"
+  },
+  {
+    "id": "rsa",
+    "name": "جنوب أفريقيا"
+  },
+  {
+    "id": "mli",
+    "name": "مالي"
+  },
+  {
+    "id": "bfa",
+    "name": "بوركينا فاسو"
+  },
+  {
+    "id": "gua",
+    "name": "غينيا"
+  },
+  {
+    "id": "cdr",
+    "name": "الكونغو الديمقراطية"
+  },
+  {
+    "id": "cpv",
+    "name": "الرأس الأخضر"
+  },
+  {
+    "id": "zmb",
+    "name": "زامبيا"
+  },
+  {
+    "id": "uga",
+    "name": "أوغندا"
+  },
+  {
+    "id": "ken",
+    "name": "كينيا"
+  },
+  {
+    "id": "tan",
+    "name": "تنزانيا"
+  },
+  {
+    "id": "zaf",
+    "name": "جنوب أفريقيا"
+  },
+  {
+    "id": "sud",
+    "name": "السودان"
+  },
+  {
+    "id": "eth",
+    "name": "إثيوبيا"
+  },
+  {
+    "id": "sle",
+    "name": "سيراليون"
+  },
+  {
+    "id": "mrt",
+    "name": "موريتانيا"
+  },
+  {
+    "id": "mwi",
+    "name": "مالاوي"
+  },
+  {
+    "id": "les",
+    "name": "ليسوتو"
+  },
+  {
+    "id": "nam",
+    "name": "ناميبيا"
+  },
+  {
+    "id": "bot",
+    "name": "بوتسوانا"
+  },
+  {
+    "id": "lib",
+    "name": "ليبيا"
+  },
+  {
+    "id": "gam",
+    "name": "غامبيا"
+  },
+  {
+    "id": "tgo",
+    "name": "توغو"
+  },
+  {
+    "id": "gbs",
+    "name": "غينيا بيساو"
+  },
+  {
+    "id": "mad",
+    "name": "مدغشقر"
+  },
+  {
+    "id": "sey",
+    "name": "سيشل"
+  },
+  {
+    "id": "cha",
+    "name": "تشاد"
+  },
+  {
+    "id": "car",
+    "name": "إفريقيا الوسطى"
+  },
+  {
+    "id": "som",
+    "name": "الصومال"
+  },
+  {
+    "id": "eri",
+    "name": "إريتريا"
+  },
+  {
+    "id": "rwa",
+    "name": "رواندا"
+  },
+  {
+    "id": "bdi",
+    "name": "بوروندي"
+  },
+  {
+    "id": "moz",
+    "name": "موزمبيق"
+  },
+  {
+    "id": "ang",
+    "name": "أنغولا"
+  },
+  {
+    "id": "eqg",
+    "name": "غينيا الاستوائية"
+  },
+  {
+    "id": "stp",
+    "name": "ساو تومي وبرينسيب"
+  },
+  {
+    "id": "nis",
+    "name": "النيجر"
+  },
+  {
+    "id": "ben",
+    "name": "بنين"
+  },
+  {
+    "id": "caf",
+    "name": "جمهورية إفريقيا الوسطى"
+  },
+  {
+    "id": "com",
+    "name": "جزر القمر"
+  },
+  {
+    "id": "djib",
+    "name": "جيبوتي"
+  },
+  {
+    "id": "esw",
+    "name": "إسواتيني"
+  },
+  {
+    "id": "gabo",
+    "name": "الغابون"
+  },
+  {
+    "id": "gui",
+    "name": "غينيا"
+  },
+  {
+    "id": "con",
+    "name": "الكونغو"
+  },
+  {
+    "id": "ksa",
+    "name": "السعودية"
+  },
+  {
+    "id": "qat",
+    "name": "قطر"
+  },
+  {
+    "id": "uae",
+    "name": "الإمارات"
+  },
+  {
+    "id": "bhr",
+    "name": "البحرين"
+  },
+  {
+    "id": "oma",
+    "name": "عُمان"
+  },
+  {
+    "id": "kuw",
+    "name": "الكويت"
+  },
+  {
+    "id": "irq",
+    "name": "العراق"
+  },
+  {
+    "id": "jor",
+    "name": "الأردن"
+  },
+  {
+    "id": "syr",
+    "name": "سوريا"
+  },
+  {
+    "id": "leb",
+    "name": "لبنان"
+  },
+  {
+    "id": "pal",
+    "name": "فلسطين"
+  },
+  {
+    "id": "yem",
+    "name": "اليمن"
+  },
+  {
+    "id": "chn",
+    "name": "الصين"
+  },
+  {
+    "id": "jpn",
+    "name": "اليابان"
+  },
+  {
+    "id": "kor",
+    "name": "كوريا الجنوبية"
+  },
+  {
+    "id": "prk",
+    "name": "كوريا الشمالية"
+  },
+  {
+    "id": "irn",
+    "name": "إيران"
+  },
+  {
+    "id": "uzb",
+    "name": "أوزبكستان"
+  },
+  {
+    "id": "tjk",
+    "name": "طاجيكستان"
+  },
+  {
+    "id": "tkm",
+    "name": "تركمانستان"
+  },
+  {
+    "id": "afg",
+    "name": "أفغانستان"
+  },
+  {
+    "id": "pak",
+    "name": "باكستان"
+  },
+  {
+    "id": "ind",
+    "name": "الهند"
+  },
+  {
+    "id": "nep",
+    "name": "نيبال"
+  },
+  {
+    "id": "bhu",
+    "name": "بوتان"
+  },
+  {
+    "id": "ban",
+    "name": "بنغلاديش"
+  },
+  {
+    "id": "sri",
+    "name": "سريلانكا"
+  },
+  {
+    "id": "mya",
+    "name": "ميانمار"
+  },
+  {
+    "id": "tha",
+    "name": "تايلاند"
+  },
+  {
+    "id": "vnm",
+    "name": "فيتنام"
+  },
+  {
+    "id": "lao",
+    "name": "لاوس"
+  },
+  {
+    "id": "cam",
+    "name": "كمبوديا"
+  },
+  {
+    "id": "mas",
+    "name": "ماليزيا"
+  },
+  {
+    "id": "sin",
+    "name": "سنغافورة"
+  },
+  {
+    "id": "phi",
+    "name": "الفلبين"
+  },
+  {
+    "id": "ido",
+    "name": "إندونيسيا"
+  },
+  {
+    "id": "tls",
+    "name": "تيمور الشرقية"
+  },
+  {
+    "id": "hkg",
+    "name": "هونغ كونغ"
+  },
+  {
+    "id": "macao",
+    "name": "ماكاو"
+  },
+  {
+    "id": "tpe",
+    "name": "تايوان"
+  },
+  {
+    "id": "mng",
+    "name": "منغوليا"
+  },
+  {
+    "id": "kgz",
+    "name": "قيرغيزستان"
+  },
+  {
+    "id": "kaz",
+    "name": "كازاخستان"
+  },
+  {
+    "id": "phi",
+    "name": "الفلبين"
+  },
+  {
+    "id": "gua",
+    "name": "غوام"
+  },
+  {
+    "id": "nmi",
+    "name": "جزر ماريانا الشمالية"
+  },
+  {
+    "id": "brn",
+    "name": "بروناي"
+  },
+  {
+    "id": "eng",
+    "name": "إنجلترا"
+  },
+  {
+    "id": "fra",
+    "name": "فرنسا"
+  },
+  {
+    "id": "esp",
+    "name": "إسبانيا"
+  },
+  {
+    "id": "ger",
+    "name": "ألمانيا"
+  },
+  {
+    "id": "ita",
+    "name": "إيطاليا"
+  },
+  {
+    "id": "por",
+    "name": "البرتغال"
+  },
+  {
+    "id": "ned",
+    "name": "هولندا"
+  },
+  {
+    "id": "bel",
+    "name": "بلجيكا"
+  },
+  {
+    "id": "cro",
+    "name": "كرواتيا"
+  },
+  {
+    "id": "sui",
+    "name": "سويسرا"
+  },
+  {
+    "id": "aut",
+    "name": "النمسا"
+  },
+  {
+    "id": "pol",
+    "name": "بولندا"
+  },
+  {
+    "id": "den",
+    "name": "الدنمارك"
+  },
+  {
+    "id": "swe",
+    "name": "السويد"
+  },
+  {
+    "id": "nor",
+    "name": "النرويج"
+  },
+  {
+    "id": "fin",
+    "name": "فنلندا"
+  },
+  {
+    "id": "isl",
+    "name": "آيسلندا"
+  },
+  {
+    "id": "cze",
+    "name": "التشيك"
+  },
+  {
+    "id": "svk",
+    "name": "سلوفاكيا"
+  },
+  {
+    "id": "hun",
+    "name": "المجر"
+  },
+  {
+    "id": "rou",
+    "name": "رومانيا"
+  },
+  {
+    "id": "bul",
+    "name": "بلغاريا"
+  },
+  {
+    "id": "gre",
+    "name": "اليونان"
+  },
+  {
+    "id": "tur",
+    "name": "تركيا"
+  },
+  {
+    "id": "ukr",
+    "name": "أوكرانيا"
+  },
+  {
+    "id": "rus",
+    "name": "روسيا"
+  },
+  {
+    "id": "srb",
+    "name": "صربيا"
+  },
+  {
+    "id": "bih",
+    "name": "البوسنة والهرسك"
+  },
+  {
+    "id": "svn",
+    "name": "سلوفينيا"
+  },
+  {
+    "id": "mkd",
+    "name": "مقدونيا الشمالية"
+  },
+  {
+    "id": "alb",
+    "name": "ألبانيا"
+  },
+  {
+    "id": "kos",
+    "name": "كوسوفو"
+  },
+  {
+    "id": "mne",
+    "name": "الجبل الأسود"
+  },
+  {
+    "id": "geo",
+    "name": "جورجيا"
+  },
+  {
+    "id": "arm",
+    "name": "أرمينيا"
+  },
+  {
+    "id": "aze",
+    "name": "أذربيجان"
+  },
+  {
+    "id": "ltu",
+    "name": "ليتوانيا"
+  },
+  {
+    "id": "lva",
+    "name": "لاتفيا"
+  },
+  {
+    "id": "est",
+    "name": "إستونيا"
+  },
+  {
+    "id": "irl",
+    "name": "إيرلندا"
+  },
+  {
+    "id": "nir",
+    "name": "إيرلندا الشمالية"
+  },
+  {
+    "id": "sco",
+    "name": "اسكتلندا"
+  },
+  {
+    "id": "wal",
+    "name": "ويلز"
+  },
+  {
+    "id": "mda",
+    "name": "مولدوفا"
+  },
+  {
+    "id": "blr",
+    "name": "بيلاروسيا"
+  },
+  {
+    "id": "lux",
+    "name": "لوكسمبورغ"
+  },
+  {
+    "id": "and",
+    "name": "أندورا"
+  },
+  {
+    "id": "smr",
+    "name": "سان مارينو"
+  },
+  {
+    "id": "mlt",
+    "name": "مالطا"
+  },
+  {
+    "id": "lie",
+    "name": "ليختنشتاين"
+  },
+  {
+    "id": "cip",
+    "name": "قبرص"
+  }
 ]
