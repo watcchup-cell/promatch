@@ -159,4 +159,20 @@
   {"id": "kac_kenitra", "name": "الكنيترة"},
   {"id": "izk_khemisset", "name": "الاتحاد الزموري للخميسات"},
   {"id": "tihad_casablanca", "name": "الاتحاد البيضاوي"}
+    {"id": "esperance_tunis", "name": "الترجي الرياضي التونسي"},
+  {"id": "etoile_sahel", "name": "النجم الساحلي"},
+  {"id": "club_africain", "name": "النادي الإفريقي"},
+  {"id": "sfaxien", "name": "النادي الصفاقسي"},
+  {"id": "bizertin", "name": "النادي البنزرتي"},
+  {"id": "us_monastir", "name": "الاتحاد المنستيري"},
+  {"id": "stade_tunisien", "name": "الملعب التونسي"},
+  {"id": "us_tataouine", "name": "اتحاد تطاوين"},
+  {"id": "rejiche", "name": "الأمل الرياضي برجيش"},
+  {"id": "metlaoui", "name": "نجم المتلوي"},
+  {"id": "es_hammam", "name": "الملعب القابسي"},
+  {"id": "olympique_beja", "name": "الأولمبي الباجي"},
+  {"id": "cs_hammam_lif", "name": "النادي الرياضي بحمام الأنف"},
+  {"id": "as_soliman", "name": "النادي الرياضي بسليمان"},
+  {"id": "js_kairouan", "name": "الشبيبة القيروانية"},
+  {"id": "ca_bizertin", "name": "النادي الرياضي البنزرتي"}
 ]
