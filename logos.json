@@ -159,4 +159,20 @@
   {"id": "kac_kenitra", "img": "https://upload.wikimedia.org/wikipedia/en/8/8f/Kenitra_AC_logo.svg"},
   {"id": "izk_khemisset", "img": "https://upload.wikimedia.org/wikipedia/en/d/d3/IZK_Khemisset_logo.svg"},
   {"id": "tihad_casablanca", "img": "https://upload.wikimedia.org/wikipedia/en/7/7d/TAS_de_Casablanca_logo.svg"}
+    {"id": "esperance_tunis", "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Espérance_Sportive_de_Tunis_logo.svg"},
+  {"id": "etoile_sahel", "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Étoile_Sportive_du_Sahel_logo.svg"},
+  {"id": "club_africain", "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/Club_Africain_logo.svg"},
+  {"id": "sfaxien", "img": "https://upload.wikimedia.org/wikipedia/en/3/31/Club_Sportif_Sfaxien_logo.svg"},
+  {"id": "bizertin", "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/CA_Bizertin_logo.svg"},
+  {"id": "us_monastir", "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/US_Monastir_logo.svg"},
+  {"id": "stade_tunisien", "img": "https://upload.wikimedia.org/wikipedia/en/0/04/Stade_Tunisien_logo.svg"},
+  {"id": "us_tataouine", "img": "https://upload.wikimedia.org/wikipedia/en/8/86/US_Tataouine_logo.svg"},
+  {"id": "rejiche", "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/AS_Rejiche_logo.svg"},
+  {"id": "metlaoui", "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/EGS_Metlaoui_logo.svg"},
+  {"id": "es_hammam", "img": "https://upload.wikimedia.org/wikipedia/en/f/f7/EG_Hammam-Sousse_logo.svg"},
+  {"id": "olympique_beja", "img": "https://upload.wikimedia.org/wikipedia/en/7/76/Olympique_de_Beja_logo.svg"},
+  {"id": "cs_hammam_lif", "img": "https://upload.wikimedia.org/wikipedia/en/3/3f/CS_Hammam-Lif_logo.svg"},
+  {"id": "as_soliman", "img": "https://upload.wikimedia.org/wikipedia/en/6/65/AS_Soliman_logo.svg"},
+  {"id": "js_kairouan", "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/JS_Kairouan_logo.svg"},
+  {"id": "ca_bizertin", "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/CA_Bizertin_logo.svg"}
 ]
