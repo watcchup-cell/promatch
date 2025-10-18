@@ -175,4 +175,16 @@
   {"id": "as_soliman", "name": "النادي الرياضي بسليمان"},
   {"id": "js_kairouan", "name": "الشبيبة القيروانية"},
   {"id": "ca_bizertin", "name": "النادي الرياضي البنزرتي"}
+    {"id": "wehdat", "name": "الوحدات"},
+  {"id": "faisaly", "name": "الفيصلي"},
+  {"id": "ramtha", "name": "الرمثا"},
+  {"id": "hussein_irma", "name": "الحسين إربد"},
+  {"id": "shabab_jor", "name": "شباب الأردن"},
+  {"id": "maan", "name": "معان"},
+  {"id": "salt", "name": "السلط"},
+  {"id": "aqaba", "name": "شباب العقبة"},
+  {"id": "sahab", "name": "سحاب"},
+  {"id": "mughayer_sarhan", "name": "مغير السرحان"},
+  {"id": "jalaa", "name": "الجليل"},
+  {"id": "that_ras", "name": "ذات راس"}
 ]
