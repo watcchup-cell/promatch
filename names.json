@@ -18,7 +18,7 @@
   {"id": "everton", "name": "إيفرتون"},
   {"id": "leicester", "name": "ليستر سيتي"},
   {"id": "southampton", "name": "ساوثهامبتون"},
-  {"id": "leeds", "name": "ليدز يونايتد"}
+  {"id": "leeds", "name": "ليدز يونايتد"},
   {"id": "real_madrid", "name": "ريال مدريد"},
   {"id": "barcelona", "name": "برشلونة"},
   {"id": "atletico", "name": "أتلتيكو مدريد"},
@@ -38,7 +38,7 @@
   {"id": "cadiz", "name": "قادش"},
   {"id": "granada", "name": "غرناطة"},
   {"id": "las_palmas", "name": "لاس بالماس"},
-  {"id": "leganes", "name": "ليغانيس"}
+  {"id": "leganes", "name": "ليغانيس"},
   {"id": "juventus", "name": "يوفنتوس"},
   {"id": "inter_milan", "name": "إنتر ميلان"},
   {"id": "ac_milan", "name": "ميلان"},
@@ -58,7 +58,7 @@
   {"id": "sassuolo", "name": "ساسولو"},
   {"id": "cagliari", "name": "كالياري"},
   {"id": "frosinone", "name": "فروزينوني"},
-  {"id": "salernitana", "name": "ساليرنيتانا"}
+  {"id": "salernitana", "name": "ساليرنيتانا"},
   {"id": "bayern_munich", "name": "بايرن ميونخ"},
   {"id": "borussia_dortmund", "name": "بوروسيا دورتموند"},
   {"id": "leipzig", "name": "لايبزيغ"},
@@ -78,7 +78,7 @@
   {"id": "koln", "name": "كولن"},
   {"id": "darmstadt", "name": "دارمشتات"},
   {"id": "nurnberg", "name": "نورمبرغ"},
-  {"id": "hannover", "name": "هانوفر"}
+  {"id": "hannover", "name": "هانوفر"},
     {"id": "ahly", "name": "الأهلي"},
   {"id": "zamalek", "name": "الزمالك"},
   {"id": "pyramids", "name": "بيراميدز"},
@@ -98,7 +98,7 @@
   {"id": "sohag", "name": "سوهاج"},
   {"id": "aswan", "name": "أسوان"},
   {"id": "ghazl_mahalla", "name": "غزل المحلة"},
-  {"id": "haras_hodoud", "name": "حرس الحدود"}
+  {"id": "haras_hodoud", "name": "حرس الحدود"},
     {"id": "al_hilal", "name": "الهلال"},
   {"id": "al_nassr", "name": "النصر"},
   {"id": "al_ahli", "name": "الأهلي"},
@@ -118,5 +118,5 @@
   {"id": "al_khaleej", "name": "الخليج"},
   {"id": "al_adr", "name": "العدالة"},
   {"id": "al_batin", "name": "الباطن"},
-  {"id": "damac", "name": "ضمك"}
+  {"id": "damac", "name": "ضمك"},
 ]
