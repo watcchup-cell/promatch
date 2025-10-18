@@ -175,4 +175,16 @@
   {"id": "as_soliman", "img": "https://upload.wikimedia.org/wikipedia/en/6/65/AS_Soliman_logo.svg"},
   {"id": "js_kairouan", "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/JS_Kairouan_logo.svg"},
   {"id": "ca_bizertin", "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/CA_Bizertin_logo.svg"}
+   {"id": "wehdat", "img": "https://upload.wikimedia.org/wikipedia/en/7/7d/Al-Wehdat_SC_logo.svg"},
+  {"id": "faisaly", "img": "https://upload.wikimedia.org/wikipedia/en/8/83/Al-Faisaly_SC_logo.svg"},
+  {"id": "ramtha", "img": "https://upload.wikimedia.org/wikipedia/en/3/3a/Al-Ramtha_SC_logo.svg"},
+  {"id": "hussein_irma", "img": "https://upload.wikimedia.org/wikipedia/en/4/49/Al-Hussein_Irbid_logo.svg"},
+  {"id": "shabab_jor", "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Shabab_Al_Ordon_Club_logo.svg"},
+  {"id": "maan", "img": "https://upload.wikimedia.org/wikipedia/en/2/25/Ma%27an_SC_logo.svg"},
+  {"id": "salt", "img": "https://upload.wikimedia.org/wikipedia/en/6/64/Al-Salt_SC_logo.svg"},
+  {"id": "aqaba", "img": "https://upload.wikimedia.org/wikipedia/en/0/0b/Shabab_Al-Aqaba_logo.svg"},
+  {"id": "sahab", "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/Sahab_SC_logo.svg"},
+  {"id": "mughayer_sarhan", "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Mughayer_Al-Sarhan_logo.svg"},
+  {"id": "jalaa", "img": "https://upload.wikimedia.org/wikipedia/en/2/28/Al-Jalil_logo.svg"},
+  {"id": "that_ras", "img": "https://upload.wikimedia.org/wikipedia/en/a/a8/That_Ras_SC_logo.svg"}
 ]
