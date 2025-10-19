@@ -399,6 +399,10 @@
     "id": "haras_hodoud",
     "img": "https://upload.wikimedia.org/wikipedia/ar/d/d4/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AD%D8%B1%D8%B3_%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF.png"
   },
+    {
+    "id": "wadi_djala",
+    "img": "https://upload.wikimedia.org/wikipedia/ar/0/08/Wadi_Degla_Logo.png"
+  },
   {
     "id": "al_hilal",
     "img": "https://upload.wikimedia.org/wikipedia/en/3/35/Al_Hilal_SFC_Logo.svg"
